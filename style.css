@@ -14,3 +14,12 @@
 	font-family: serif;
 	text-align: center;
 }
+
+.footer {
+	background: rgb(46, 46, 107);
+	padding: 50px 100px;
+	font-size: 38px;
+	color: #fff;
+	font-family: serif;
+	text-align: center;
+}
